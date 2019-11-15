@@ -1,6 +1,6 @@
 # if-else staement are known as conditinal statements.
 # In these statements, If part is executed if condition is true, otherwise else part is executed
-# In conditions we can use following operators: (equal  == )(not equal != )(greater than > )(greater or equal >= )
+# In conditions we can use following operators: (equal  == )(not equal != )(greater than > )(greater or equal >= ) (less than <)( less than or equal <=)
 
 # Format:
 #       if condition 1:
